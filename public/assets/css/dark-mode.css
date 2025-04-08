@@ -1,0 +1,47 @@
+body {
+    background-color: #212529;
+    color: #f8f9fa;
+}
+
+.card {
+    background-color: #343a40;
+    border-color: #495057;
+}
+
+.card-header {
+    background-color: #495057;
+    border-bottom-color: #6c757d;
+}
+
+.table {
+    color: #f8f9fa;
+}
+
+.table th, .table td {
+    border-color: #495057;
+}
+
+.form-control, .form-select {
+    background-color: #495057;
+    border-color: #6c757d;
+    color: #f8f9fa;
+}
+
+.form-control:focus, .form-select:focus {
+    background-color: #495057;
+    color: #f8f9fa;
+}
+
+.list-group-item {
+    background-color: #495057;
+    border-color: #6c757d;
+    color: #f8f9fa;
+}
+
+.list-group-item-action:hover {
+    background-color: #6c757d;
+}
+
+.text-muted {
+    color: #adb5bd !important;
+}
