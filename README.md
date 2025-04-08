@@ -24,6 +24,10 @@ A simple Task Management web application that allows users to manage their daily
 6. Open your browser and navigate to:  
    `http://localhost/task-managment/`
 
+
+  ## ⚙️ localhost run to
+  http://localhost/task-manager/views/auth/login.php
+  
 ## 🔐 Admin Login
 
 - **Email:** `admin@gmail.com`  
